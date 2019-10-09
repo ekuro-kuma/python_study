@@ -1,5 +1,5 @@
-# python_study
-To study Python
+# Python_study
+This is my study repository for Python.
 
 ## key_macro.py
 ### Preparation
